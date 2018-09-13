@@ -2,7 +2,7 @@
  * Copyright 2018 AGNESSGP - ECUADOR 
  * Todos los derechos reservados
  */ 
-package ec.com.agnessgp.personas.controlador;
+package ec.agnessgp.bancopacifico.controlador;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.SessionAttributes;
 import org.springframework.web.multipart.MultipartFile;
 
-import ec.com.agnessgp.personas.modelo.Persona;
-import ec.com.agnessgp.personas.servicio.PersonaService;
+import ec.agnessgp.bancopacifico.modelo.Persona;
+import ec.agnessgp.bancopacifico.servicio.PersonaService;
 
 /** 
  * <b>

@@ -3,7 +3,7 @@
  * Todos los derechos reservados
  */ 
 
-package ec.com.agnessgp.personas.modelo;
+package ec.agnessgp.bancopacifico.modelo;
 
 import java.time.LocalDate;
 import java.util.Date;

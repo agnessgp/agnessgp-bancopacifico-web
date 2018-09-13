@@ -3,7 +3,7 @@
  * Todos los derechos reservados
  */ 
 
-package ec.com.agnessgp.personas.servicio;
+package ec.agnessgp.bancopacifico.servicio;
 
 import java.util.List;
 import java.util.Optional;
@@ -11,8 +11,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import ec.com.agnessgp.personas.dao.PersonaRepository;
-import ec.com.agnessgp.personas.modelo.Persona;
+import ec.agnessgp.bancopacifico.dao.PersonaRepository;
+import ec.agnessgp.bancopacifico.modelo.Persona;
 
 /** 
  * <b>

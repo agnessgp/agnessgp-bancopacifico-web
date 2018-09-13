@@ -2,11 +2,11 @@
  * Copyright 2018 AGNESSGP - ECUADOR 
  * Todos los derechos reservados
  */ 
-package ec.com.agnessgp.personas.dao;
+package ec.agnessgp.bancopacifico.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import ec.com.agnessgp.personas.modelo.Persona;
+import ec.agnessgp.bancopacifico.modelo.Persona;
 
 /** 
  * <b>
