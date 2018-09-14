@@ -48,7 +48,7 @@ public class Vehiculo implements Serializable {
 	@Column(name="precio")
 	private Float precio;
 	
-	@Column(name="marca")
+	@Column(name="estado")
 	private Integer estado;
 	
 	@Column(name="consecionario_id")
